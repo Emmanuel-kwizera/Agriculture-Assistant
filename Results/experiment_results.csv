@@ -1,0 +1,5 @@
+Experiment,LR,Batch,Grad Acc,Epochs,LoRA r,ROUGE-L,Notes
+Exp 1 — High LR,2e-4,2,4,1,8,31.2,Loss oscillates; underfits
+Exp 2 — Best ,1e-4,2,4,2,16,45.15,Best validation loss; deployed
+Exp 3 — Low LR,5e-5,4,2,3,16,43.1,Stable but slow convergence
+Base Model (no FT),N/A,N/A,N/A,N/A,N/A,14.4,"Pre-trained only, no domain tuning"
