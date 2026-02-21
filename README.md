@@ -1,6 +1,6 @@
 # CropCare — Agricultural Assistant
 
-> A domain-specific assistant fine-tuned on 22,615 real farming Q&A pairs to help farmers, agronomists, and agricultural practitioners get instant expert advice.
+> A agricultural based assistant fine-tuned on 22,615 real farming Q&A pairs to help farmers, agronomists, and agricultural practitioners get instant expert advice.
 
 ---
 
