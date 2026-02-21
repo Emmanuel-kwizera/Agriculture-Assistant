@@ -8,6 +8,8 @@
 
 **CropCare** fine-tunes **TinyLlama-1.1B-Chat** using **LoRA (Low-Rank Adaptation)** on the [KisanVaani Agriculture QA dataset](https://huggingface.co/datasets/KisanVaani/agriculture-qa-english-only), producing a lightweight model that runs entirely on a free Colab T4 GPU.
 
+**YouTube Video**: CropCare Demo Video
+
 The assistant covers:
 -  Plant disease diagnosis and treatment
 -  Pest identification and natural control methods
@@ -54,7 +56,7 @@ Agriculture-Assistant/
 ## Getting Started
 
 ### 1. Open in Google Colab
-[![Open In Colab](https://drive.google.com/file/d/1M889xsf_JAIU6MR4IqiUbNdA1OQEQtbS/view?usp=sharing)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1M889xsf_JAIU6MR4IqiUbNdA1OQEQtbS/view?usp=sharing)
 
 > Make sure to set the runtime to **T4 GPU**: `Runtime → Change runtime type → T4 GPU`
 
@@ -74,7 +76,7 @@ The install cell will auto-restart the runtime. After restart, **skip Section 1*
 
 ---
 
-## 🔬 Hyperparameter Experiments
+## Hyperparameter Experiments
 
 Three configurations were tested to document the impact of hyperparameter choices:
 
