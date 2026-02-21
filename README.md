@@ -9,6 +9,7 @@
 **CropCare** fine-tunes **TinyLlama-1.1B-Chat** using **LoRA (Low-Rank Adaptation)** on the [KisanVaani Agriculture QA dataset](https://huggingface.co/datasets/KisanVaani/agriculture-qa-english-only), producing a lightweight model that runs entirely on a free Colab T4 GPU.
 
 **YouTube Video**: CropCare Demo Video
+**Colab Notebook**: [Notebook Link](https://drive.google.com/file/d/1M889xsf_JAIU6MR4IqiUbNdA1OQEQtbS/view?usp=sharing)
 
 The assistant covers:
 -  Plant disease diagnosis and treatment
