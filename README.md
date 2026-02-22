@@ -58,6 +58,9 @@ Agriculture-Assistant/
 
 ### 1. Open in Google Colab
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1M889xsf_JAIU6MR4IqiUbNdA1OQEQtbS/view?usp=sharing)
+[![Demo](https://img.shields.io/badge/Demo-YouTube-red?logo=youtube)](https://www.youtube.com/watch?v=AVsq06b4DGw)
+[![Python](https://img.shields.io/badge/python-3.10+-blue)](https://www.python.org/)
+[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 > Make sure to set the runtime to **T4 GPU**: `Runtime → Change runtime type → T4 GPU`
 
